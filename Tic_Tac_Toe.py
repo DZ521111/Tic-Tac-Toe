@@ -86,13 +86,14 @@ def compMove():
 
     return move
 
+# select random
 def selectRandom(li):
     import random
     ln = len(li)
     r = random.randrange(0,ln)
     return li[r]
 
-
+# check whether board is full or not
 def isBoardFull(board):
     if board.count(' ') > 1:
         return False
