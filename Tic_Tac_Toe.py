@@ -51,6 +51,8 @@ def playerMove():
         except:
             print('Type a number!')
 
+
+# comparision of moves
 def compMove():
     possibleMoves = [x for x, letter in enumerate(board) if letter == ' ' and x != 0]
     move = 0
