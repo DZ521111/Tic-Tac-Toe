@@ -102,6 +102,7 @@ def isBoardFull(board):
     else:
         return True
 
+# main function of program
 def main():
     print('Welcome to Tic Tac Toe!')
     printBoard(board)
