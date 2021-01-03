@@ -131,11 +131,12 @@ def main():
         print('Tie Game!')
 
 # loop for untill we wants to play
-while True:
-    answer = input('Do you want to play again? (Y/N)')
-    if answer.lower() == 'y' or answer.lower == 'yes':
-        board = [' ' for x in range(10)]
-        print('-----------------------------------')
-        main()
-    else:
-        break
+if __name__ == "__main__":
+    while True:
+        answer = input('Do you want to play again? (Y/N)')
+        if answer.lower() == 'y' or answer.lower == 'yes':
+            board = [' ' for x in range(10)]
+            print('-----------------------------------')
+            main()
+        else:
+            break
