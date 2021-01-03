@@ -7,6 +7,7 @@ AI Min-Max Algorithm
 ![alt text](https://github.com/DZ521111/TIC-TAC-TOE/blob/master/ScreenShots/first.png?raw=true)
 
 **Second**
-
+![alt text](https://github.com/DZ521111/TIC-TAC-TOE/blob/master/ScreenShots/second.png?raw=true)
 
 **Third**
+![alt text](https://github.com/DZ521111/TIC-TAC-TOE/blob/master/ScreenShots/third.png?raw=true)
